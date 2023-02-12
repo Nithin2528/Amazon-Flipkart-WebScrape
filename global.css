@@ -1,0 +1,27 @@
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-xs: 14px;
+  --font-size-sm: 15px;
+  --font-size-base: 16px;
+  --font-size-lg: 17.6px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 25px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-aliceblue: #f5fcff;
+  --color-gray: #10162f;
+  --color-darkslategray: #34394c;
+  --color-mediumblue: #3a10e5;
+
+  /* Gaps */
+  --gap-md: 24px;
+
+  /* Paddings */
+  --padding-sm: 8px;
+  --padding-md: 36px;
+  --padding-lg: 48px;
+}
